@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YStefanenko
 - 👀 I’m interested in math
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning chaos theory
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
