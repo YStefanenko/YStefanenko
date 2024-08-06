@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YStefanenko
-- 👀 I’m interested in math
-- 🌱 I’m currently learning chaos theory
+- 👀 I’m interested in many things
+- 🌱 I’m currently studying maths, physics and music
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me stefanenkoyehor@gmail.com
 
 <!---
 YStefanenko/YStefanenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
