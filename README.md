@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @YStefanenko
-- 👀 I’m interested in game development
-- 🌱 I’m currently studying maths, physics and music
-- 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me stefanenkoyehor@gmail.com
+# 👋 Hi there, I'm Yehor Stefanenko (@YStefanenko)
 
-<!---
-YStefanenko/YStefanenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Game Developer | Maths Enthusiast | Musician
+
+---
+
+## 👀 About Me
+
+- 💻 I'm deeply interested in **game development**.
+- 📚 Currently studying **mathematics**, **physics**, and **music**.
+- 🤝 Always open to **collaboration** on game development projects!
+
+---
+
+## 🚀 What I’m Working On
+
+- Developing War of Dots.
+- Learning more about different game engines.
+- Improving my skills in Python.
+
+---
+
+## 💞️ Let’s Collaborate
+
+Got a cool game idea? Want to jam together on a game dev project?  
+I’d love to hear from you!
+
+📫 **Reach me at:** stefanenkoyehor@gmail.com
+
+---
+
+Thanks for stopping by! 🌟
