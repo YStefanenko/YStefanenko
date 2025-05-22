@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YStefanenko
-- 👀 I’m interested in many things
+- 👀 I’m interested in game development
 - 🌱 I’m currently studying maths, physics and music
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me stefanenkoyehor@gmail.com
 
 <!---
